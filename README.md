@@ -45,7 +45,6 @@ I'm a passionate developer specializing in web development and backend systems. 
 
 ### 🎮 Rhythm game & Rougelike game maniac:
 
-### 🎮 Games I like:
 
 | <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/deemo.jpg" width="300" height="200"> | <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/osu.png" width="300" height="200"> |
 |:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
