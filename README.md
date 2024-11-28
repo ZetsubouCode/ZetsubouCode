@@ -45,13 +45,14 @@ I'm a passionate developer specializing in web development and backend systems. 
 
 ### 🎮 Rhythm game & Rougelike game maniac:
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/deemo.jpg" alt="Deemo Reborn" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/osu.png" alt="Osu" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/muse_dash.webp" alt="Muse Dash" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/taiko.jpg" alt="Taiko no Tatsujin" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/lanota.jpg" alt="Lanota" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/dynamix.jpg" alt="Dynamix" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/slay_the_spire.jpg" alt="Slay the Spire" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/ring_of_pain.jpg" alt="Ring of Pain" style="width: 100%; max-width: 150px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(2, 1fr); gap: 10px;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/deemo.jpg" alt="Deemo Reborn" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/osu.png" alt="Osu" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/muse_dash.webp" alt="Muse Dash" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/taiko.jpg" alt="Taiko no Tatsujin" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/lanota.jpg" alt="Lanota" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/dynamix.jpg" alt="Dynamix" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/slay_the_spire.jpg" alt="Slay the Spire" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/ring_of_pain.jpg" alt="Ring of Pain" style="width: 150px; height: 150px; object-fit: cover;">
 </div>
+
