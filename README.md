@@ -45,9 +45,12 @@ I'm a passionate developer specializing in web development and backend systems. 
 
 ### 🎮 Rhythm game & Rougelike game maniac:
 
-| ![Deemo Reborn](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/deemo.jpg) | ![Osu](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/osu.png) |
-|:-----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-| ![Muse Dash](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/muse_dash.webp) | ![Taiko no Tatsujin](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/taiko.jpg) |
-| ![Lanota](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/lanota.jpg) | ![Dynamix](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/dynamix.jpg) |
-| ![Slay the Spire](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/slay_the_spire.jpg) | ![Ring of Pain](https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/ring_of_pain.jpg) |
+### 🎮 Games I like:
+
+| <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/deemo.jpg" width="200" height="200"> | <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/osu.png" width="200" height="200"> |
+|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+| <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/muse_dash.webp" width="200" height="200"> | <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/taiko.jpg" width="200" height="200"> |
+| <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/lanota.jpg" width="200" height="200"> | <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/dynamix.jpg" width="200" height="200"> |
+| <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/slay_the_spire.jpg" width="200" height="200"> | <img src="https://raw.githubusercontent.com/ZetsubouCode/ZetsubouCode/main/ring_of_pain.jpg" width="200" height="200"> |
+
 
