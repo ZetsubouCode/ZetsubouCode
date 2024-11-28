@@ -20,6 +20,8 @@ I'm a passionate developer specializing in web development and backend systems. 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FD5C5C?style=for-the-badge&logo=xampp&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
 
 
 
