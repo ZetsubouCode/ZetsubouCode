@@ -46,12 +46,12 @@ I'm a passionate developer specializing in web development and backend systems. 
 ### 🎮 Rhythm game & Rougelike game maniac:
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/deemo.jpg" alt="League of Legends" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Fortnite" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Overwatch" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Valorant" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Red Dead Redemption 2" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Minecraft" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Dota 2" style="width: 100%; max-width: 150px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Among Us" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/deemo.jpg" alt="Deemo Reborn" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/osu.png" alt="Osu" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/muse_dash.webp" alt="Muse Dash" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/taiko.jpg" alt="Taiko no Tatsujin" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/lanota.jpg" alt="Lanota" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/dynamix.jpg" alt="Dynamix" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/slay_the_spire.jpg" alt="Slay the Spire" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/ring_of_pain.jpg" alt="Ring of Pain" style="width: 100%; max-width: 150px;">
 </div>
