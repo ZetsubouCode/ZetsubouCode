@@ -43,7 +43,15 @@ I'm a passionate developer specializing in web development and backend systems. 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ---
 
-### 🔗 Connect with me:
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+### 🎮 Rhythm game & Rougelike game maniac:
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/deemo.jpg" alt="League of Legends" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Fortnite" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Overwatch" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Valorant" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Red Dead Redemption 2" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Minecraft" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Dota 2" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Among Us" style="width: 100%; max-width: 150px;">
+</div>
