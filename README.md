@@ -46,7 +46,7 @@ I'm a passionate developer specializing in web development and backend systems. 
 ### 🎮 Rhythm game & Rougelike game maniac:
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://github.com/ZetsubouCode/ZetsubouCode/deemo.jpg" alt="League of Legends" style="width: 100%; max-width: 150px;">
+  <img src="https://github.com/ZetsubouCode/ZetsubouCode/blob/main/deemo.jpg" alt="League of Legends" style="width: 100%; max-width: 150px;">
   <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Fortnite" style="width: 100%; max-width: 150px;">
   <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Overwatch" style="width: 100%; max-width: 150px;">
   <img src="https://github.com/ZetsubouCode/ZetsubouCode/" alt="Valorant" style="width: 100%; max-width: 150px;">
